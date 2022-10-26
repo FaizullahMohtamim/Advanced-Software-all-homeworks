@@ -5,10 +5,7 @@
  */
 package Adapter_Design_Pattren;
 
-/**
- *
- * @author Mohtamim
- */
+
 public class AdapterMain {
     public static void main(String[] args) {
         WallSocket wallSocket=new WallSocketimp();
